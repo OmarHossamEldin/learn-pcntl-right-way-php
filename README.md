@@ -71,13 +71,10 @@ In such cases, `pcntl_fork()` might be a useful tool — **if used wisely.**
 
 ## Final Thoughts
 
-- It’s used to develop tools like Laravel Horizon, integrating with Redis to scale across multiple services.
 
-- It also powers the Artisan CLI, handling process control commands within the Laravel framework itself.
+- It also powers the Pest testing CLI framework.
 
 - It won’t solve every problem, but in the right hands, it can help you speed up tasks without requiring major architectural changes.
-
-- So once again — with the right hands and solid knowledge, it can empower you to build awesome and powerful tools and systems.
 
 ---
 
